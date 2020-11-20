@@ -8,7 +8,7 @@
 ## software
 1. opencore:v0.6.3
 2. BIOS:7C82v13
-3. OS：acOS Big Sur 11.0.1 20B29
+3. OS:MacOS Big Sur 11.0.1 20B29
 
 ## BIOS configuration
 ...
