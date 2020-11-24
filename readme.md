@@ -3,7 +3,7 @@
 1. CPU:intel i5 10400
 2. GPU:SAPPHIRE RX550 2G
 3. MotherBoard:MSI B460M mortar
-4. Wireless and Bluetooth:Absent
+4. Wireless and Bluetooth:BCM943602CS
 
 ## software
 1. opencore:v0.6.3
@@ -12,3 +12,8 @@
 
 ## BIOS configuration
 ...
+
+## Check
+- [x] AirDrop
+- [x] Handoff
+- [x] SideCar
