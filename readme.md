@@ -1,4 +1,6 @@
 # Hackintosh Opencore EFI
+update for latest opencore and Kexts
+OK with macOS Monterey 12.1beta
 ## hardware
 1. CPU:intel i5 10400
 2. GPU:SAPPHIRE RX550 2G
