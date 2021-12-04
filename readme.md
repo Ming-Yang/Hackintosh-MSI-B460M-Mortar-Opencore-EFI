@@ -1,5 +1,5 @@
 # Hackintosh Opencore EFI
-update for latest opencore and Kexts
+update for latest opencore and Kexts\
 OK with macOS Monterey 12.1beta
 ## hardware
 1. CPU:intel i5 10400
